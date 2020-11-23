@@ -1,0 +1,12 @@
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Domain.dll
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.AssemblyInfoInputs.cache
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.AssemblyInfo.cs
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.csprojAssemblyReference.cache
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Repository.deps.json
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Repository.dll
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Repository.pdb
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Domain.pdb
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.csproj.CopyComplete
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.dll
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.pdb

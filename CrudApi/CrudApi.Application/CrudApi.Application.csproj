@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CrudApi.Domain\CrudApi.Domain.csproj" />
+    <ProjectReference Include="..\CrudApi.Repository\CrudApi.Repository.csproj" />
+    <ProjectReference Include="..\CrudApi.Services\CrudApi.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>

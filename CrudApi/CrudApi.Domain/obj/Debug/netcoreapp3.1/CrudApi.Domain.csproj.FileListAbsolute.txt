@@ -1,0 +1,9 @@
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.deps.json
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.dll
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.pdb
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.csprojAssemblyReference.cache
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.AssemblyInfo.cs
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.dll
+C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.pdb
