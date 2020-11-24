@@ -8,7 +8,7 @@ namespace CrudApi.Repository
     {
         public string _login;
         public ClientModel _client;
-        private static string strcon = @"Data Source=LAPTOP-G44R5A85\SQLEXPRESS;Initial Catalog=CrudApiDB;Integrated Security=True";
+        private static string strcon = @"Data Source=LAPTOP-G44R5A85\SQLEXPRESS; Initial Catalog=CrudApiDB; User Id=sa; Password= senhaerrada";
         SqlConnection conn = new SqlConnection(strcon);
         public Context(ClientModel client)
         {

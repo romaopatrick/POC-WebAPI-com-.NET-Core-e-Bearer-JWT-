@@ -22,8 +22,16 @@ namespace CrudApi.Application.Controllers
         [AllowAnonymous]
         public IActionResult Login([FromBody] ClientModel client)
         {
-            var result = _tokenService.GenerateToken(client);
-            return Ok(result);     
+            Context login = new Context(client);
+            if(login.CheckInDb() == false)
+            {
+                var result = _tokenService.GenerateToken(client);
+                return Ok(result); 
+            }
+            else
+            {
+                return NotFound(new{ message = "Usuário ou senha inválido(os)"});
+            }
         }
 
         [HttpPut]
