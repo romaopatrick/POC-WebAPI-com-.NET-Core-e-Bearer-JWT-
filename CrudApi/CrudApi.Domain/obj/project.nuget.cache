@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYc2zDnZu0iYM4A6emnippaHawAbfumc2tbdCdyR6+RiawoB44dd5gjJGgYn5TiGKUo/CRa23nppYUHoqIj96g==",
+  "dgSpecHash": "kqr09NTTmU7cCL3QCB26F1yCs6edy2efhf3pspTqRLREtNgAcrhtnBHKBcWGCOb20gzae1XwrY6DpqMLNWWRYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chico\\source\\repos\\CrudApi\\CrudApi.Domain\\CrudApi.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ialmeida\\source\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Domain\\CrudApi.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

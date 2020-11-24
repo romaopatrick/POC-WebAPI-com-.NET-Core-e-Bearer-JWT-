@@ -17,16 +17,20 @@ namespace CrudApi.Services
         }
         public TokenModel GenerateToken(ClientModel client)
         {
-            var token = _jwtSecurityTokenHandler.WriteToken(_jwtSecurityTokenHandler.CreateToken(new SecurityTokenDescriptor
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var key = Encoding.ASCII.GetBytes("fedaf7d8863b48e197b9287d492b708e");
+            var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(new Claim[]
                 {
-                    new Claim(ClaimTypes.Name, client.Login.ToString())
+
                 }),
-                Expires = DateTime.UtcNow.AddMinutes(20),
-                SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("fedaf7d8863b48e197b9287d492b708e")), SecurityAlgorithms.HmacSha256Signature)
-            })); 
-            return new TokenModel { Token = token, CreatedTime = DateTime.Now, ExpirationDate = DateTime.Now.AddMinutes(20) };
+                Expires = DateTime.UtcNow.AddHours(2),
+                SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+            };
+            var token = tokenHandler.CreateToken(tokenDescriptor);
+
+            return new TokenModel { Token = _jwtSecurityTokenHandler.WriteToken(token), CreatedTime = DateTime.Now, ExpirationDate = DateTime.Now.AddMinutes(20) };
         }
     }
 }

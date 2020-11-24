@@ -7,3 +7,12 @@ C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudA
 C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.dll
 C:\Users\Chico\source\repos\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.pdb
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.deps.json
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.dll
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.pdb
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.csprojAssemblyReference.cache
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.AssemblyInfoInputs.cache
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.AssemblyInfo.cs
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.dll
+C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.pdb

@@ -2,16 +2,13 @@
 using CrudApi.Repository;
 using CrudApi.Services;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace CrudApi.Application.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize]
     [ApiController]
     public class LoginController : ControllerBase
     {
@@ -22,22 +19,15 @@ namespace CrudApi.Application.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public IActionResult Login([FromBody] ClientModel client)
         {
-            Context login = new Context(client);
-            if (login.CheckInDb() == false)
-            {
-                var result = _tokenService.GenerateToken(client);
-                return Ok(result);
-            }
-            else
-            {
-                return NotFound(new { message = "Usuário ou senha inválidos" });
-            }
+            var result = _tokenService.GenerateToken(client);
+            return Ok();     
         }
+
         [HttpPut]
         [Route("update")]
-        [AllowAnonymous] //Não consegui utilizar o authorize porque nao criei um atributo pra diferenciar o nivel de autorizacao :c
         public IActionResult UpdateClient([FromBody] ClientModel newclient)
         {
             Context update = new Context(User.Identity.Name);

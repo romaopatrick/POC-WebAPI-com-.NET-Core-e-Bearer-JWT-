@@ -1,8 +1,6 @@
 ﻿using CrudApi.Domain.Models;
 using System;
 using System.Data.SqlClient;
-using System.Net;
-using System.Web.Http;
 
 namespace CrudApi.Repository
 {
