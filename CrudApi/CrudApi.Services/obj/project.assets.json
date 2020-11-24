@@ -761,23 +761,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ialmeida\\.nuget\\packages\\": {},
+    "C:\\Users\\Chico\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ialmeida\\source\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Services\\CrudApi.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Chico\\Documents\\GitHub\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Services\\CrudApi.Services.csproj",
       "projectName": "CrudApi.Services",
-      "projectPath": "C:\\Users\\ialmeida\\source\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Services\\CrudApi.Services.csproj",
-      "packagesPath": "C:\\Users\\ialmeida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ialmeida\\source\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Services\\obj\\",
+      "projectPath": "C:\\Users\\Chico\\Documents\\GitHub\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Services\\CrudApi.Services.csproj",
+      "packagesPath": "C:\\Users\\Chico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Chico\\Documents\\GitHub\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\ialmeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Chico\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -786,18 +786,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/acessocardvsts/_packaging/Acesso%40Local/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/ialmeida/dbdfd255-21e0-481b-bc1f-e277f4ebcc45/_packaging/Dpa/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ialmeida\\source\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Domain\\CrudApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\ialmeida\\source\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Domain\\CrudApi.Domain.csproj"
+            "C:\\Users\\Chico\\Documents\\GitHub\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Domain\\CrudApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\Chico\\Documents\\GitHub\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Domain\\CrudApi.Domain.csproj"
             },
-            "C:\\Users\\ialmeida\\source\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Repository\\CrudApi.Repository.csproj": {
-              "projectPath": "C:\\Users\\ialmeida\\source\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Repository\\CrudApi.Repository.csproj"
+            "C:\\Users\\Chico\\Documents\\GitHub\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Repository\\CrudApi.Repository.csproj": {
+              "projectPath": "C:\\Users\\Chico\\Documents\\GitHub\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Repository\\CrudApi.Repository.csproj"
             }
           }
         }
@@ -810,6 +809,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
@@ -831,7 +831,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

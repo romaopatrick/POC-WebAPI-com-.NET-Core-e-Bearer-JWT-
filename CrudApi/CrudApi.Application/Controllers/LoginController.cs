@@ -23,11 +23,10 @@ namespace CrudApi.Application.Controllers
         public IActionResult Login([FromBody] ClientModel client)
         {
             var result = _tokenService.GenerateToken(client);
-            return Ok();     
+            return Ok(result);     
         }
 
         [HttpPut]
-        [Route("update")]
         public IActionResult UpdateClient([FromBody] ClientModel newclient)
         {
             Context update = new Context(User.Identity.Name);
@@ -41,8 +40,6 @@ namespace CrudApi.Application.Controllers
             }
         }
         [HttpDelete]
-        [Route("delete")]
-        [AllowAnonymous]
         public IActionResult DeleteClient()
         {
             Context delete = new Context(User.Identity.Name);

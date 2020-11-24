@@ -16,3 +16,12 @@ C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.
 C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.csproj.CoreCompileInputs.cache
 C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.dll
 C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.pdb
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.deps.json
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.dll
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\bin\Debug\netcoreapp3.1\CrudApi.Domain.pdb
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.csprojAssemblyReference.cache
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.AssemblyInfo.cs
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.dll
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Domain\obj\Debug\netcoreapp3.1\CrudApi.Domain.pdb

@@ -23,7 +23,7 @@ namespace CrudApi.Services
             {
                 Subject = new ClaimsIdentity(new Claim[]
                 {
-
+                    new Claim(ClaimTypes.Name, client.Login.ToString())
                 }),
                 Expires = DateTime.UtcNow.AddHours(2),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)

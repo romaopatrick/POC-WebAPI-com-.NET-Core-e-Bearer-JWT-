@@ -22,3 +22,15 @@ C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.
 C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Domain.dll
 C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Domain.pdb
 C:\Users\ialmeida\source\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.csproj.CopyComplete
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Repository.deps.json
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Repository.dll
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Repository.pdb
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Domain.dll
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\bin\Debug\netcoreapp3.1\CrudApi.Domain.pdb
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.csprojAssemblyReference.cache
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.AssemblyInfoInputs.cache
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.AssemblyInfo.cs
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.csproj.CopyComplete
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.dll
+C:\Users\Chico\Documents\GitHub\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\CrudApi\CrudApi.Repository\obj\Debug\netcoreapp3.1\CrudApi.Repository.pdb
