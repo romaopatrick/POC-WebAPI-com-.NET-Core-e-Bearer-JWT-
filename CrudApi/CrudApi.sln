@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{7B8EF5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{02F00426-E0B9-48D2-91A8-B8052951B817}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApi.Application", "CrudApi.Application\CrudApi.Application.csproj", "{E1CE898F-8144-49BC-966C-E044D958FC23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi.Application", "CrudApi.Application\CrudApi.Application.csproj", "{E1CE898F-8144-49BC-966C-E044D958FC23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApi.Domain", "CrudApi.Domain\CrudApi.Domain.csproj", "{2D249064-D60E-448D-9D0C-4F9A6822E0C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi.Domain", "CrudApi.Domain\CrudApi.Domain.csproj", "{2D249064-D60E-448D-9D0C-4F9A6822E0C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApi.Services", "CrudApi.Services\CrudApi.Services.csproj", "{AE2CA65B-E375-4BC2-BAF1-CD2FE79F259F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi.Services", "CrudApi.Services\CrudApi.Services.csproj", "{AE2CA65B-E375-4BC2-BAF1-CD2FE79F259F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{F403E31A-5130-4685-9F0A-5C2EF38B2720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApi.Repository", "CrudApi.Repository\CrudApi.Repository.csproj", "{C69F3D91-19E7-4579-A3CF-69ECCF3A0195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi.Repository", "CrudApi.Repository\CrudApi.Repository.csproj", "{C69F3D91-19E7-4579-A3CF-69ECCF3A0195}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

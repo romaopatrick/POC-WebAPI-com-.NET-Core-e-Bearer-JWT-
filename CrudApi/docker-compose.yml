@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  crudapi.application:
+    image: ${DOCKER_REGISTRY-}crudapiapplication
+    build:
+      context: .
+      dockerfile: CrudApi.Application\Dockerfile
+    ports:
+        - "5555:80" 
+    depends_on:
+     - SqlServerContainer
+    
+

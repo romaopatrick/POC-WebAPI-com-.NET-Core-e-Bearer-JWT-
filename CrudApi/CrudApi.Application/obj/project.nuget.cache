@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AuDLpI21MZ2nW35NJoPfuYwAJb8K1M/w0tqcWT7SOhhwsLHEyB0vYftoj3EJ3mzofbBn0bXfaEF1In+8EF4wig==",
+  "dgSpecHash": "WgO5BahbFWMzW/p7s/mUfTzTG34/P4W/olNFuobfjAuSAr5JpGwxFDtBoqmYlWFNPBdB4gTYmi8Y9j56TLUknQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Chico\\Documents\\GitHub\\POC-WebAPI-com-.NET-Core-e-Bearer-JWT-\\CrudApi\\CrudApi.Application\\CrudApi.Application.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\Chico\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\Chico\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Chico\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Chico\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Chico\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Chico\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\Chico\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
